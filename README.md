@@ -13,4 +13,3 @@ Generate a random password with selected criteria.
 ## Contribution
 Made by Tiffany Sobczak
 
-![Horiseon Screenshot](./horiseonscreenshot.png)
