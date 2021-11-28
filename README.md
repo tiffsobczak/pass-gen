@@ -14,3 +14,4 @@ Generates a random password given user's selected criteria
 
 
 ## Screenshot
+![Password Generator Screenshot](./pass-gen-ss.png)
